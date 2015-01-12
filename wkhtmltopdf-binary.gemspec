@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.name = 'wkhtmltopdf-binary'
-  s.version = '0.12.1'
+  s.version = '0.12.2'
   s.summary = 'Provides binaries for WKHTMLTOPDF project in an easily accessible package.'
   s.description = ''
 
